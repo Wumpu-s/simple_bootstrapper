@@ -1,0 +1,6 @@
+C:\Users\emilw\source\repos\BetterBootstrapper\BetterBootstrapper\bin\Debug\BetterBootstrapper.exe.config
+C:\Users\emilw\source\repos\BetterBootstrapper\BetterBootstrapper\bin\Debug\BetterBootstrapper.exe
+C:\Users\emilw\source\repos\BetterBootstrapper\BetterBootstrapper\bin\Debug\BetterBootstrapper.pdb
+C:\Users\emilw\source\repos\BetterBootstrapper\BetterBootstrapper\obj\Debug\BetterBootstrapper.csproj.CoreCompileInputs.cache
+C:\Users\emilw\source\repos\BetterBootstrapper\BetterBootstrapper\obj\Debug\BetterBootstrapper.exe
+C:\Users\emilw\source\repos\BetterBootstrapper\BetterBootstrapper\obj\Debug\BetterBootstrapper.pdb
